@@ -1,2 +1,3 @@
-# marxism
-Marksizm ve daha fazlası için bilgiler
+# Marxism
+
+Marxism Github Arşivi
